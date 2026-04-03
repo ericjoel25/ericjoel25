@@ -54,7 +54,8 @@ Modern web & mobile solution for managing loans, payments, overdue clients, repo
 Designed to improve **efficiency, control, and real-world business workflows**.
 
 <p align="left">
-  <img src="https://play-lh.googleusercontent.com/uQGJvDnp0Y1K_Qv_nYWKstR-eZtlk0gnRWtIUgLDwu1egNa5fHBqRUac4XwS3PVJYMl7FTCgYxCTNE_IV7fd6nM=w1052-h592-rw" alt="Cobrapp App Screenshot" width="200" hight="200"/>
+  <img src="https://play-lh.googleusercontent.com/S_CklmOhZKWH-wlSZWg5aSPkrHsbgxXYLqmCBm9TcuTzKAyOup88irF4ipiBc6dGSeFfm7dBB7lcah13eiBUiQ=w2560-h1440-rw" alt="Cobrapp App Screenshot" width="200" hight="200"/>
+  
 </p>
 
 ---
